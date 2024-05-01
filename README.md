@@ -1,4 +1,4 @@
-
+- [Youtube video of demo and how I setup rasberryPi](https://www.youtube.com/watch?v=v=41yG_Z-WHHU)
 # Running Ollama models on locally on NVMe Base Rasberry Pi5
 
 For this project, I have divided it into three sections, which may be expanded in the future. These sections are:
@@ -96,5 +96,5 @@ check the status of ollama service
 ```
 ### Testing the Ollama model response
 
+![inst6.png.png](./resources/inst6.png.png)
 
-[![Demo video of ollama model response](https://img.youtube.com/vi/41yG_Z-WHHU/maxresdefault.jpg)](https://www.youtube.com/watch?v=41yG_Z-WHHU)
