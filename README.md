@@ -88,10 +88,7 @@ raspivv: your rasberrypi server name
 ```bash
   ollama run tinyllama
 ```
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/vivekverma18/pi5Ollama/blob/main/ollamaPISN1%20-%20Made%20with%20Clipchamp.mp4))
+![App Screenshot]([[https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/vivekverma18/pi5Ollama/blob/main/ollamaPISN1%20-%20Made%20with%20Clipchamp.mp4)](https://youtu.be/SApgdqGnL0E))
 
-[![Watch the video](https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/vivekverma18/pi5Ollama/blob/main/ollamaPISN1%20-%20Made%20with%20Clipchamp.mp4)
+[![Watch the video]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/vivekverma18/pi5Ollama/blob/main/ollamaPISN1%20-%20Made%20with%20Clipchamp.mp4](https://youtu.be/SApgdqGnL0E))
 
-
-[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<VIDEO_ID>)
