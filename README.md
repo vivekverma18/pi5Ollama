@@ -5,8 +5,10 @@ For this project, I have divided it into three sections, which may be expanded i
 
 - **Adding a NVMe base (500GB) to Raspberry Pi 5**.
 - **Running the Ollama model locally on Pi 5.**
-- **Using Grafana for metric collection.**
-- **Enabling event management and intelligence automation through ServiceNow.**
+- **Using Grafana for metric collection.** (**will release soon)
+- **Enabling event management and intelligence automation through ServiceNow.** (**will release soon)
+
+
 
 
 
@@ -22,6 +24,7 @@ What You Need
 - MicroSD card (for initial setup)
 - Power supply (27W)
 - Active cooler (optional, but recommended for best performance)
+- Compatible NVMe SSD (https://shop.pimoroni.com/products/nvme-base?
 
 #### Putting it Together
 
@@ -91,4 +94,6 @@ check the status of ollama service
 ```bash
   ollama run tinyllama
 ```
+### Testing the Ollama model response
 
+![inst6.png](./resources/inst6.png)
