@@ -1,4 +1,4 @@
-- [Youtube video of demo and how I setup rasberryPi](https://www.youtube.com/watch?v=v=41yG_Z-WHHU)
+- [YouTube video where I demonstrate how to set up a Ollama model on Raspberry Pi](https://www.youtube.com/watch?v=41yG_Z-WHHU)
 # Running Ollama models on locally on NVMe Base Rasberry Pi5
 
 For this project, I have divided it into three sections, which may be expanded in the future. These sections are:
@@ -28,7 +28,7 @@ What You Need
 
 #### Putting it Together
 
-photo of rasberryPiandNVMeBase
+https://github.com/vivekverma18/pi5Ollama/assets/139458801/27e2f51d-9858-4803-b274-fb007bbe8f1c
 
 #### Installing the OS
 
@@ -81,6 +81,10 @@ Remote connect to rasberry pi server
 check the status of ollama service 
 
 ```bash
+
+https://github.com/vivekverma18/pi5Ollama/assets/139458801/a3419391-2373-49a2-8dd0-0e9d28c3b9c6
+
+
   sudo systemctl status ollama
 ```
 ![inst5.png](./resources/inst5.png)
