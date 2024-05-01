@@ -96,4 +96,4 @@ check the status of ollama service
 ```
 ### Testing the Ollama model response
 
-![inst6.png](./resources/inst6.png)
+![inst6.png.png](./resources/inst6.png.png)
