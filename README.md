@@ -19,7 +19,6 @@ NVMe Base is an add-on board for the Raspberry Pi 5 that lets you connect a fast
 What You Need
 
 - Raspberry Pi 5
-- Compatible NVMe SSD [Link]([https://shop.pimoroni.com/products/nvme-base?variant=41219587178579](https://github.com/vivekverma18/pi5Ollama/blob/main/ollamaPISN1%20-%20Made%20with%20Clipchamp.mp4))
 - MicroSD card (for initial setup)
 - Power supply (27W)
 - Active cooler (optional, but recommended for best performance)
@@ -89,5 +88,5 @@ raspivv: your rasberrypi server name
 ```bash
   ollama run tinyllama
 ```
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/vivekverma18/pi5Ollama/blob/main/ollamaPISN1%20-%20Made%20with%20Clipchamp.mp4))
 
