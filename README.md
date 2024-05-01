@@ -58,28 +58,29 @@ If you have easy access to your SD card slot you could turn off your Pi, pop out
 ## Running the Ollama model locally on Pi 5
 
 Install my-project with npm
+Remote connect to rasberry pi server
 
 ```bash
-  ping -4 raspivv.local
+  ping -4 <Rasberry Pi server name>.local
 ```
-raspivv: your rasberrypi server name
-
-
 
 ```bash
-  ssh vivek@192.168.1.242
+  ssh <userName>@<Ipaddress>
 ```
+![inst4.png](./resources/inst4.png)
 
+### Setup Ollama
 
 ```bash
   curl -fsSL https://ollama.com/install.sh | sh
 ```
 
+check the status of ollama service 
 
 ```bash
   sudo systemctl status ollama
 ```
-   check the status of ollama service 
+![inst5.png](./resources/inst5.png)
 
 
 ```bash
@@ -90,8 +91,4 @@ raspivv: your rasberrypi server name
 ```bash
   ollama run tinyllama
 ```
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/41yG_Z-WHHU)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/21I-rZIhy6o/0.jpg)](https://www.youtube.com/watch?v=21I-rZIhy6o)
 
