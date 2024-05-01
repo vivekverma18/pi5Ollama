@@ -45,7 +45,7 @@ You should able to see your NVMe drive
 ### Install a New OS Using Rasberry Pi OS Desktop
 You will need a microSD card with the Desktop version of the Raspberry Pi OS installed. Boot your Raspberry Pi from this card, then open 'Imager' from the Accessories menu.
 
-imageRaspberry PI os screen
+![inst1.png](./resources/inst1.png)
 
 Once it is complete, go to the Setting the Raspberry Pi to boot from the NVMe SSD section below
 
